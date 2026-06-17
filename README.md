@@ -77,8 +77,8 @@ I focus on:
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vxdudev&show_icons=true&theme=transparent" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vxdudev&theme=transparent" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vudeeh&show_icons=true&theme=transparent" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vudeeh&theme=transparent" height="160" />
 </p>
 
 ---
