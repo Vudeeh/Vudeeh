@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **22-year-old Full-Stack Developer** with **5+ years of hands-on development experience**, working professionally at **One Hungary Plc.**
+I'm a **23-year-old Full-Stack Developer** with **5+ years of hands-on development experience**, working professionally at **One Hungary Plc.**
 I specialize in building modern, scalable, and user-focused web applications — from clean, responsive frontends to robust backends.
 
 Alongside my full-time role, I work on **independent private development projects**, continuously improving my skills and exploring new technologies.
